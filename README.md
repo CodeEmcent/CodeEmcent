@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**CodeEmcent/CodeEmcent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I'm Emcent
+🚀 Passionate Developer | 🌟 Open Source Enthusiast | 🎯 Tech Explorer
 
-Here are some ideas to get you started:
+Welcome to my profile! I'm a Software Engineer who loves Backend Projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 I’m currently learning AWS
+- 🔭 I’m working on E-commerce APIs
+- 🌱 I’m passionate about contributing to Tech Solutions
+- 👯 I’m looking to collaborate with you to provide solutions for our world
+- 💬 Ask me about Philosophy and Software Engineering
+- 🧩 Fun fact: I am an Author
+- ⚡ Idea Espoused: Social Conscience
+
+## 🛠️ Tech Stack
+- 🌐 Languages: Python, JavaScript, etc.
+- 🛠️ Frameworks: Django, React, etc.
+- ⚙️ Tools: Git, Docker, etc.
+
+## Databases
+- 🐘 PostgreSQL
+- 🐬 MySQL
+- 🍃 MongoDB
+
+## 📫 Let's Connect!
+- Email: mcinnobezzy@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chukwuemeka-emekwue-64844b153/
+- Phone No: +234 8134504850
