@@ -17,26 +17,26 @@ Welcome to my profile! I'm a Software Engineer who loves Backend Projects.
 ## 🛠️ Tech Stack
 
 <table>
-  <th></th>
-  <th>🛠️ Tech Stack</th>
-  <th></th>
+  <th>🌐 Languages</th>
+  <th>🛠️ Frameworks</th>
+  <th>⚙️ Tools</th>
   <th>🛢️ Databases</th>
   <tr>
-    <td><b>🌐 Languages</b></td>
-    <td>Python, JavaScript, etc.</td>
-    <td></td>
+    <td>🐍 Python</td>
+    <td>🦸‍♂️ Django</td>
+    <td>🐙 Git</td>
     <td><b>🐘 PostgreSQL</b></td>
   </tr>
   <tr>
-    <td><b>🛠️ Frameworks</b></td>
-    <td>Django, React, etc.</td>
-    <td></td>
+    <td>📜 JavaScript</td>
+    <td>⚛️ React</td>
+    <td>🌐 Vercel</td>
     <td><b>🐬 MySQL</b></td>
   </tr>
   <tr>
-    <td><b>⚙️ Tools</b></td>
-    <td>Git, Docker, etc.</td>
-    <td></td>
+    <td>🧑‍💻 HTML & CSS</td>
+    <td>🚀 Bootstrap</td>
+    <td>🚉 Railway</td>
     <td><b>🍃 MongoDB</b></td>
   </tr>
 </table>
