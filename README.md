@@ -17,7 +17,7 @@ Welcome to my profile! I'm a software engineer who loves brainstorming ideas for
 ## 🛠️ Tech Stack
 
 <table>
-  <th>🌐 Languages</th>
+  <th>🧑‍💻 Languages</th>
   <th>🛠️ Frameworks</th>
   <th>⚙️ Tools</th>
   <th>🛢️ Databases</th>
@@ -34,7 +34,7 @@ Welcome to my profile! I'm a software engineer who loves brainstorming ideas for
     <td><b>🐬 MySQL</b></td>
   </tr>
   <tr>
-    <td>🧑‍💻 HTML & CSS</td>
+    <td>🎨 HTML & CSS</td>
     <td>🚀 Bootstrap</td>
     <td>🚉 Railway</td>
     <td><b>🍃 MongoDB</b></td>
