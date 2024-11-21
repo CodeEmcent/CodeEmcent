@@ -1,7 +1,7 @@
 # Hello! 👋
 
-✨ I'm Emcent
-🚀 Passionate Developer | 🌟 Open Source Enthusiast | 🎯 Tech Explorer
+✨ I'm Emcent 
+🚀 Passionate Developer  🌟 Open Source Enthusiast  🎯 Tech Explorer
 
 Welcome to my profile! I'm a Software Engineer who loves Backend Projects.
 
