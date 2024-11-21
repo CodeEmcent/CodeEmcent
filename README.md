@@ -3,16 +3,16 @@
 ✨ I'm Emcent 
 🚀 Passionate Developer  🌟 Open Source Enthusiast  🎯 Tech Explorer
 
-Welcome to my profile! I'm a Software Engineer who loves Backend Projects.
+Welcome to my profile! I'm a software engineer who loves brainstorming ideas for digital products.
 
 ## 🧑‍💻 About Me
-- 🎓 I’m currently learning AWS
-- 🔭 I’m working on E-commerce APIs
-- 🌱 I’m passionate about contributing to Tech Solutions
-- 👯 I’m looking to collaborate with you to provide solutions for our world
-- 💬 Ask me about Philosophy and Software Engineering
-- 🧩 Fun fact: I am an Author
-- ⚡ Idea Espoused: Social Conscience
+- 🎓 I’m currently learning about AWS.
+- 🔭 I’m working on E-commerce APIs.
+- 🌱 I’m passionate about contributing to the tech ecosystem.
+- 👯 I’d love to collaborate with you on providing digital solutions for our world.
+- 💬 Ask me about philosophy or software engineering.
+- 🧩 Fun fact: I'm an author.
+- ⚡ Idea Espoused: Social Conscience.
 
 ## 🛠️ Tech Stack
 
