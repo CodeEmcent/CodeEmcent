@@ -42,9 +42,8 @@ Welcome to my profile! I'm a software engineer who loves brainstorming ideas for
 </table>
 
 ## 🌐 Let's Connect!
-📞 +234 8134504850
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcinnobezzy@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-emekwue-64844b153/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mic_Bezzy) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white)](https://emcent.vercel.app/)
+![Phone Badge](https://img.shields.io/badge/Phone-+2348134504850-informational?style=flat&logo=phone&logoColor=white&color=34b7f1)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:mcinnobezzy@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/chukwuemeka-emekwue-64844b153/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=html5&logoColor=white&color=29A385)](https://emcent.vercel.app/)
 
