@@ -1,9 +1,9 @@
-# Hello! 👋
+# Hello and Welcome! 👋
 
 ✨ I'm Emcent 
 🚀 Passionate Developer  🌟 Open Source Enthusiast  🎯 Tech Explorer
 
-Welcome to my profile! I'm a software engineer who loves brainstorming ideas for digital products.
+I'm a software engineer who loves brainstorming ideas for digital products.
 
 ## 🧑‍💻 About Me
 - 🎓 I’m currently learning about AWS.
