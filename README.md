@@ -6,8 +6,9 @@
 I'm a software engineer who loves brainstorming ideas for digital products.
 
 ## 🧑‍💻 About Me
-- 🎓 I’m currently learning about AWS.
-- 🔭 I’m working on E-commerce APIs.
+- 🎓 I’m currently learning AWS Cloud Computing with ALX.
+- 🏁 My latest completed project was an E-commerce API.
+- 🔭 I’m working on an Inventory Web Application.
 - 🌱 I’m passionate about contributing to the tech ecosystem.
 - 👯 I’d love to collaborate with you on providing digital solutions for our world.
 - 💬 Ask me about philosophy or software engineering.
