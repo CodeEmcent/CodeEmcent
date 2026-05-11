@@ -6,7 +6,7 @@
 I'm a software engineer who loves brainstorming ideas for digital products.
 
 ## 🧑‍💻 About Me
-- 🎓 I’m currently learning Microsoft Azure Cloud Computing with ALX.
+- 🎓 I’m currently learning Microsoft Azure Cloud Computing.
 - 🏁 My latest completed project was an E-commerce API.
 - 🔭 I’m working on an Inventory Web Application.
 - 🌱 I’m passionate about contributing to the tech ecosystem.
