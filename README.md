@@ -15,6 +15,6 @@ I'm a software engineer who loves brainstorming ideas for digital products.
 
 ## 🌐 Let's Connect!
 ![Phone Badge](https://img.shields.io/badge/Phone-+2348134504850-34b7f1?style=flat&logo=font-awesome&logoColor=white)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:mcinnobezzy@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Address-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:innocent@emcent.dev) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/chukwuemeka-innocent-emekwue-64844b153/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=html5&logoColor=white&color=29A385)](https://emcent.dev/)
